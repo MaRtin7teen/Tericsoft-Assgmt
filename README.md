@@ -27,5 +27,3 @@ In this project we have used the following tech stack.
 ## Live Demo
 
 LINK: https://tericsoft-assgmt.netlify.app/
-
-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
